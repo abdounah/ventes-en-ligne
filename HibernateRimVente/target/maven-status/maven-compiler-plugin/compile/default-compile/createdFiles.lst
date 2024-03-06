@@ -1,0 +1,12 @@
+dao\ProductDao.class
+entities\Category.class
+servlets\LoginServlet.class
+servlets\RegisterServlet.class
+connection\FactoryProvider.class
+dao\UserDao.class
+connection\Helper.class
+servlets\ProductOperationServlet.class
+servlets\LogoutServlet.class
+entities\User.class
+entities\Product.class
+dao\CategoryDao.class
